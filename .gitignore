@@ -1,12 +1,12 @@
 # Ignore compiled binaries
-*.exe
-*.o
-*.out
+#*.exe
+#*.o
+#*.out
 
 # Ignore log files
-*.log
+#*.log
 
 # Ignore temporary files
-tmp/
+#tmp/
 
-Dl git.ipynb
+#Dl git.ipynb
